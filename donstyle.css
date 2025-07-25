@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: #fff;
+  background: #cfd0d2;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   padding: 20px 0;
   position: sticky;
@@ -29,7 +29,7 @@ header {
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: #ff6b6b;
+  color: #f66f6f;
   text-decoration: none;
 }
 
@@ -99,7 +99,7 @@ nav {
 }
 
 .btn:hover {
-  background-color: #e14b4b;
+  background-color:#bfe25c ;
 }
 
 .featured, .offers, .testimonials {
@@ -153,7 +153,7 @@ nav {
 }
 
 .btn-small:hover {
-  background-color: #e14b4b;
+  background-color: #bfe25c;
 }
 
 
@@ -199,7 +199,7 @@ nav {
 
 footer {
   background-color: #2c3e50;
-  color: #f0f0f0;
+  color: #f7f4f4;
   padding: 60px 0 30px;
 }
 
@@ -227,7 +227,7 @@ footer {
 
 .footer-col p, .footer-col ul, .footer-col li {
   font-size: 14px;
-  color: #ccc;
+  color: #ebbdbd;
   list-style: none;
 }
 
@@ -236,13 +236,13 @@ footer {
 }
 
 .footer-col ul li a {
-  color: #ccc;
+  color:#ebbdbd ;
   text-decoration: none;
   transition: 0.3s;
 }
 
 .footer-col ul li a:hover {
-  color: #fff;
+  color: #bfe25c;
 }
 .team {
   padding: 40px 20px;
@@ -287,8 +287,8 @@ footer {
 
 hr {
   border: none;
-  height: 1px;
-  background-color: #f0b9b9;
+  height: 2px;
+  background-color: #bfe25c;
   margin: 20px 0;
 }
 
@@ -302,17 +302,17 @@ hr {
 .social-links a {
   margin: 0 10px;
   font-size: 18px;
-  color: #ccc;
+  color: #d5a0a0;
   transition: 0.3s;
 }
 
 .social-links a:hover {
-  color: #ff6b6b;
+  color: #b2d657;
 }
 
 footer p {
   font-size: 13px;
-  color:#a9eeb6;
+  color:#d5a0a0;
 }
 
 @media (max-width: 768px) {
