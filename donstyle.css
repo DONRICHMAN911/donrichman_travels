@@ -319,7 +319,7 @@ footer p {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #ece3e3;
+    background-color: #d3cccc;
     position: absolute;
     top: 80px;
     right: 20px;
