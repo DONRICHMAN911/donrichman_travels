@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: #cfd0d2;
+  background: #466b22;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   padding: 20px 0;
   position: sticky;
@@ -74,7 +74,7 @@ nav {
   text-align: center;
   height: 100vh;
   position: relative;
-  padding-top: 80px
+  padding-top: 250px
   
   }
 
@@ -159,8 +159,9 @@ nav {
 
 .offers {
   padding: 60px 0;
-  background-color:rgb(82,167,224) ;
-  text-align: center;
+  background-color:rgb(221, 233, 242) ;
+  font-size: x-large;
+  
 }
 
 .offer-card {
